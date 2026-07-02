@@ -2,8 +2,6 @@
 
 **Modern ve kapsamlı bir e-ticaret web uygulaması** — React + Vite ile geliştirilmiş, tamamen işlevsel alışveriş deneyimi.
 
-![Preview](public/icons.svg)
-
 ---
 
 ## ✨ Özellikler
